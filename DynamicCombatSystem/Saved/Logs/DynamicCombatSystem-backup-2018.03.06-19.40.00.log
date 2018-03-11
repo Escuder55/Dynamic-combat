@@ -1,0 +1,1036 @@
+﻿Log file open, 03/05/18 23:25:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DynamicCombatSystem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1811259672) SRandInit(1811259672).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.214480
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.05-22.25.44:241][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.05-22.25.44:241][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.05-22.25.44:321][  0]LogInit: Computer: DESKTOP-I8BD2H0
+[2018.03.05-22.25.44:321][  0]LogInit: User: anglm
+[2018.03.05-22.25.44:321][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.05-22.25.44:321][  0]LogInit: High frequency timer resolution =3.312645 MHz
+[2018.03.05-22.25.44:321][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.05-22.25.44:321][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.05-22.25.44:321][  0]LogMemory: Process Physical Memory: 280.72 MB used, 280.72 MB peak
+[2018.03.05-22.25.44:321][  0]LogMemory: Process Virtual Memory: 282.30 MB used, 282.30 MB peak
+[2018.03.05-22.25.44:321][  0]LogMemory: Physical Memory: 7649.02 MB used,  8610.77 MB free, 16259.79 MB total
+[2018.03.05-22.25.44:321][  0]LogMemory: Virtual Memory: 710.77 MB used,  8610.77 MB free, 134217728.00 MB total
+[2018.03.05-22.25.45:842][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.03.05-22.25.45:842][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.03.05-22.25.52:514][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.05-22.25.52:826][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.03.05-22.25.52:826][  0]LogD3D11RHI:       6061/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.05-22.25.52:858][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.03.05-22.25.52:858][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.05-22.25.52:866][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.05-22.25.52:867][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.05-22.25.52:867][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.05-22.25.52:883][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.05-22.25.52:883][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.05-22.25.52:884][  0]LogWindows: EnumDisplayDevices:
+[2018.03.05-22.25.52:884][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.03.05-22.25.52:884][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.03.05-22.25.52:884][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.03.05-22.25.52:884][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.03.05-22.25.52:884][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.05-22.25.52:885][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.05-22.25.52:885][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.05-22.25.52:885][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.05-22.25.52:885][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.03.05-22.25.52:885][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.05-22.25.52:885][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.05-22.25.52:885][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.03.05-22.25.53:068][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.05-22.25.53:309][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 6)
+[2018.03.05-22.25.53:493][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Intermediate/Shaders/WorkingDirectory/10964/).
+[2018.03.05-22.25.53:494][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/anglm/AppData/Local/Temp/UnrealShaderWorkingDir/6864F1EA4B2D182A4D2742A5E86B51F6/'.
+[2018.03.05-22.25.53:494][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.05-22.26.10:687][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.05-22.26.10:740][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.05-22.26.10:989][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.05-22.26.11:248][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.05-22.26.11:353][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.05-22.26.11:431][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.05-22.26.11:484][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.05-22.26.11:537][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.05-22.26.11:582][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.05-22.26.11:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.05-22.26.11:716][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.05-22.26.11:783][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.05-22.26.11:830][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.05-22.26.11:893][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.05-22.26.11:940][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.05-22.26.12:113][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.05-22.26.12:113][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.05-22.26.12:322][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.05-22.26.12:908][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.05-22.26.12:974][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.05-22.26.13:023][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.05-22.26.13:077][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.05-22.26.13:123][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.05-22.26.13:175][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.05-22.26.13:175][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.05-22.26.15:400][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.05-22.26.15:401][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.03.05-22.26.15:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.05-22.26.15:401][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.05-22.26.15:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.05-22.26.15:401][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.05-22.26.15:441][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.05-22.26.15:468][  0]LogDerivedDataCache: Using Local data cache path C:/Users/anglm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.05-22.26.15:610][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.05-22.26.15:611][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.05-22.26.15:646][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.05-22.26.15:647][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.05-22.26.28:145][  0]LogAssetRegistry: FAssetRegistry took 0.0290 seconds to start up
+[2018.03.05-22.26.28:701][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.05-22.26.31:393][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.03.05-22.26.33:361][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.05-22.26.33:557][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.05-22.26.33:616][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.05-22.26.33:616][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.05-22.26.33:616][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.05-22.26.33:616][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.05-22.26.37:520][  0]LogNetVersion: DynamicCombatSystem , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 258153625)
+[2018.03.05-22.26.37:858][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.036272 seconds
+[2018.03.05-22.26.37:865][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.03.05-22.26.37:865][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.03.05-22.26.37:865][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.05-22.26.37:925][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.05-22.26.51:405][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.05-22.26.51:661][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.05-22.26.53:550][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.05-22.26.54:660][  0]SourceControl: Source control is disabled
+[2018.03.05-22.26.54:661][  0]SourceControl: Source control is disabled
+[2018.03.05-22.26.54:780][  0]SourceControl: Source control is disabled
+[2018.03.05-22.26.54:890][  0]SourceControl: Source control is disabled
+[2018.03.05-22.26.56:086][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.05-22.26.56:674][  0]LogOcInput: OculusInput pre-init called
+[2018.03.05-22.26.57:299][  0]LogEngine: Initializing Engine...
+[2018.03.05-22.26.57:446][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.05-22.26.58:869][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.05-22.26.58:869][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.05-22.26.59:036][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.05-22.26.59:226][  0]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.05-22.26.59:279][  0]LogInit: FAudioDevice initialized.
+[2018.03.05-22.26.59:707][  0]LogDerivedDataCache: Saved boot cache 0.43s 93MB C:/Users/anglm/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.03.05-22.26.59:726][  0]LogInit: Texture streaming: Enabled
+[2018.03.05-22.26.59:877][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.05-22.27.00:608][  0]LogInit: Transaction tracking system initialized
+[2018.03.05-22.27.00:954][  0]BlueprintLog: New page: Editor Load
+[2018.03.05-22.27.02:689][  0]LocalizationService: Localization service is disabled
+[2018.03.05-22.27.03:662][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.03.05-22.27.03:662][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.03.05-22.27.03:662][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.03.05-22.27.04:047][  0]LogConsoleResponse: Display: 
+[2018.03.05-22.27.04:376][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.05-22.27.04:376][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.05-22.27.04:377][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.05-22.27.05:451][  0]LogFileCache: Scanning file cache for directory 'C:/Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/' took 0.01s
+[2018.03.05-22.27.06:565][  0]SourceControl: Source control is disabled
+[2018.03.05-22.27.06:566][  0]Cmd: MAP LOAD FILE="../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DemoRoom/DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.05-22.27.06:568][  0]LightingResults: New page: Lighting Build
+[2018.03.05-22.27.06:649][  0]MapCheck: New page: Map Check
+[2018.03.05-22.27.06:649][  0]LightingResults: New page: Lighting Build
+[2018.03.05-22.27.07:231][  0]LogLinker: Can't find file '/Game/DynamicCombatSystem/DataTables/DT_CombatCharacter'
+[2018.03.05-22.27.07:231][  0]LogLinker: Can't find file '/Game/DynamicCombatSystem/DataTables/DT_CombatCharacter'
+[2018.03.05-22.27.08:766][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:766][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeLeft.uasset.
+[2018.03.05-22.27.08:766][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeLeft : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:766][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:766][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeLeft.uasset.
+[2018.03.05-22.27.08:766][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeLeft : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:766][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:766][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeLeft.uasset.
+[2018.03.05-22.27.08:766][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeLeft : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:766][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:766][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeLeft.uasset.
+[2018.03.05-22.27.08:766][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeLeft : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:767][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:767][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeLeft.uasset.
+[2018.03.05-22.27.08:767][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeLeft : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:767][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:767][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:767][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:767][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:767][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:767][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:767][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:767][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:767][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:768][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:768][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:768][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:768][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:768][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:768][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:768][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:768][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:774][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:775][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeRight.uasset.
+[2018.03.05-22.27.08:775][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeRight : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:775][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:775][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeRight.uasset.
+[2018.03.05-22.27.08:775][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeRight : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:775][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:775][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeRight.uasset.
+[2018.03.05-22.27.08:775][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeRight : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:775][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:775][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeRight.uasset.
+[2018.03.05-22.27.08:775][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeRight : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeRight.uasset.
+[2018.03.05-22.27.08:776][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/EQS/EQS_StrafeRight : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:776][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:776][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:776][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:776][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:776][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:777][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:777][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:777][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:777][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:777][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.08:777][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe.uasset.
+[2018.03.05-22.27.08:777][  0]LoadErrors: Error: /Game/DynamicCombatSystem/Blueprints/AI/Services/BTS_Strafe : Can't find file for asset. /Script/EnvironmentQueryEditor
+[2018.03.05-22.27.09:700][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.09:700][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2018.03.05-22.27.09:700][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.09:700][  0]LoadErrors: Failed to load /Script/EnvironmentQueryEditor.EnvironmentQueryGraph Referenced by EQS_StrafeLeft
+[2018.03.05-22.27.09:700][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2018.03.05-22.27.09:700][  0]LoadErrors: Failed to load /Script/EnvironmentQueryEditor.EnvironmentQueryGraph Referenced by EQS_StrafeLeft
+[2018.03.05-22.27.09:735][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.09:736][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2018.03.05-22.27.09:736][  0]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2018.03.05-22.27.09:736][  0]LoadErrors: Failed to load /Script/EnvironmentQueryEditor.EnvironmentQueryGraph Referenced by EQS_StrafeRight
+[2018.03.05-22.27.09:736][  0]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2018.03.05-22.27.09:736][  0]LoadErrors: Failed to load /Script/EnvironmentQueryEditor.EnvironmentQueryGraph Referenced by EQS_StrafeRight
+[2018.03.05-22.27.09:809][  0]LogTexture: Display: Building textures: T_Dissolve (AutoDXT, 512X512)
+[2018.03.05-22.27.10:025][  0]LogTexture: Display: Building textures: T_ProgressBarFill (BGRA8, 500X40)
+[2018.03.05-22.27.10:025][  0]LogTexture: Display: Building textures: T_PatrolPath (AutoDXT, 256X256)
+[2018.03.05-22.27.10:025][  0]LogTexture: Display: Building textures: T_ProgressBarDef (BGRA8, 500X40)
+[2018.03.05-22.27.10:025][  0]LogTexture: Display: Building textures: T_ViewfinderIcon_01 (BGRA8, 403X403)
+[2018.03.05-22.27.10:025][  0]LogTexture: Display: Building textures: T_CategoriesBorder (BGRA8, 650X150)
+[2018.03.05-22.27.10:025][  0]LogTexture: Display: Building textures: T_SteelShield (BGRA8, 227X221)
+[2018.03.05-22.27.10:025][  0]LogTexture: Display: Building textures: T_SteelLeggings (BGRA8, 231X225)
+[2018.03.05-22.27.10:025][  0]LogTexture: Display: Building textures: T_SteelBreastplate (BGRA8, 231X225)
+[2018.03.05-22.27.10:025][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/JumpAttack_01.JumpAttack_01
+[2018.03.05-22.27.10:143][  0]LogTexture: Display: Building textures: T_InventoryBorder (BGRA8, 650X550)
+[2018.03.05-22.27.10:143][  0]LogTexture: Display: Building textures: T_SteelSword (BGRA8, 226X221)
+[2018.03.05-22.27.10:143][  0]LogTexture: Display: Building textures: T_SteelBoots (BGRA8, 231X225)
+[2018.03.05-22.27.10:143][  0]LogTexture: Display: Building textures: T_SteelHelmet (BGRA8, 232X225)
+[2018.03.05-22.27.10:143][  0]LogTexture: Display: Building textures: T_SteelGloves (BGRA8, 232X225)
+[2018.03.05-22.27.10:143][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/Attack_04.Attack_04
+[2018.03.05-22.27.10:202][  0]LogTexture: Display: Building textures: T_ItemBorder (BGRA8, 96X96)
+[2018.03.05-22.27.10:202][  0]LogTexture: Display: Building textures: T_UnrealEngineDecal (DXT1, 2048X2048)
+[2018.03.05-22.27.10:202][  0]LogTexture: Display: Building textures: T_Halberd (BGRA8, 226X221)
+[2018.03.05-22.27.10:202][  0]LogTexture: Display: Building textures: T_HealthPotion (BGRA8, 178X173)
+[2018.03.05-22.27.10:202][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/Attack_03.Attack_03
+[2018.03.05-22.27.10:298][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.03.05-22.27.10:298][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.03.05-22.27.10:298][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_HitSword02...
+[2018.03.05-22.27.10:370][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.03.05-22.27.10:370][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.03.05-22.27.10:370][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.03.05-22.27.10:370][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_HitSword01...
+[2018.03.05-22.27.10:420][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_BlockShieldMetal02...
+[2018.03.05-22.27.10:465][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.03.05-22.27.10:465][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.03.05-22.27.10:465][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_BlockShieldMetal01...
+[2018.03.05-22.27.10:502][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_BlockMetalMetal...
+[2018.03.05-22.27.10:527][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Reaction/ParryGetHit.ParryGetHit
+[2018.03.05-22.27.10:546][  0]LogMaterial: Missing cached shader map for material M_DissolveEffect, compiling. 
+[2018.03.05-22.27.10:774][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Jump/JumpEnd.JumpEnd
+[2018.03.05-22.27.10:899][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Jump/JumpLoop.JumpLoop
+[2018.03.05-22.27.10:932][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Jump/JumpStart.JumpStart
+[2018.03.05-22.27.11:012][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/H_RunF.H_RunF
+[2018.03.05-22.27.11:113][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/H_RunB.H_RunB
+[2018.03.05-22.27.11:183][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/H_Idle.H_Idle
+[2018.03.05-22.27.11:271][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/H_WalkL.H_WalkL
+[2018.03.05-22.27.11:368][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2018.03.05-22.27.11:368][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.03.05-22.27.11:368][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/H_WalkF.H_WalkF
+[2018.03.05-22.27.11:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2018.03.05-22.27.11:570][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2018.03.05-22.27.11:570][  0]LogTexture: Display: Building textures: T_Pattern_M (AutoDXT, 2048X2048)
+[2018.03.05-22.27.11:570][  0]LogTexture: Display: Building textures: T_RoomTiles_N (BC5, 2048X2048)
+[2018.03.05-22.27.11:570][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/H_WalkR.H_WalkR
+[2018.03.05-22.27.11:597][  0]LogTexture: Display: Building textures: T_RoomTiles_M (DXT1, 2048X2048)
+[2018.03.05-22.27.11:597][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/H_WalkB.H_WalkB
+[2018.03.05-22.27.11:677][  0]LogStaticMesh: Building static mesh SM_Shield...
+[2018.03.05-22.27.11:688][  0]LogStaticMesh: Built static mesh [0.01s] /Game/DynamicCombatSystem/Meshes/Items/SM_Shield.SM_Shield
+[2018.03.05-22.27.11:895][  0]LogStaticMesh: Building static mesh SM_Halberd...
+[2018.03.05-22.27.11:904][  0]LogStaticMesh: Built static mesh [0.07s] /Game/DynamicCombatSystem/Meshes/Items/SM_Halberd.SM_Halberd
+[2018.03.05-22.27.12:036][  0]LogStaticMesh: Building static mesh SM_Base...
+[2018.03.05-22.27.12:203][  0]LogStaticMesh: Built static mesh [0.21s] /Game/DemoRoom/Meshes/SM_Base.SM_Base
+[2018.03.05-22.27.12:310][  0]LogMaterial: Missing cached shader map for material M_DemoWall, compiling. 
+[2018.03.05-22.27.12:541][  0]LogStaticMesh: Building static mesh SM_Base_FlatWall...
+[2018.03.05-22.27.12:544][  0]LogStaticMesh: Built static mesh [0.09s] /Game/DemoRoom/Meshes/SM_Base_FlatWall.SM_Base_FlatWall
+[2018.03.05-22.27.12:750][  0]LogTexture: Display: Building textures: T_shieldbreastplate_N (BC5, 2048X2048)
+[2018.03.05-22.27.12:798][  0]LogTexture: Display: Building textures: T_shieldbreastplate_S (AutoDXT, 2048X2048)
+[2018.03.05-22.27.12:798][  0]LogStaticMesh: Building static mesh SM_DemoRoomU...
+[2018.03.05-22.27.12:814][  0]LogStaticMesh: Built static mesh [0.06s] /Game/DemoRoom/Meshes/SM_DemoRoomU.SM_DemoRoomU
+[2018.03.05-22.27.13:007][  0]LogTexture: Display: Building textures: T_shieldbreastplate_AO (AutoDXT, 2048X2048)
+[2018.03.05-22.27.13:007][  0]LogStaticMesh: Building static mesh SM_DemoRoomTrim...
+[2018.03.05-22.27.13:137][  0]LogStaticMesh: Built static mesh [0.16s] /Game/DemoRoom/Meshes/SM_DemoRoomTrim.SM_DemoRoomTrim
+[2018.03.05-22.27.13:248][  0]LogTexture: Display: Building textures: T_Warspoils_axemace_N (BC5, 2048X2048)
+[2018.03.05-22.27.13:248][  0]LogStaticMesh: Building static mesh SM_URoom_Wall...
+[2018.03.05-22.27.13:249][  0]LogStaticMesh: Built static mesh [0.05s] /Game/DemoRoom/Meshes/SM_URoom_Wall.SM_URoom_Wall
+[2018.03.05-22.27.13:325][  0]LogTexture: Display: Building textures: T_Warspoils_axemace_S (AutoDXT, 2048X2048)
+[2018.03.05-22.27.13:325][  0]LogStaticMesh: Building static mesh SM_DemoDivider_2...
+[2018.03.05-22.27.13:346][  0]LogStaticMesh: Built static mesh [0.02s] /Game/DemoRoom/Meshes/SM_DemoDivider_2.SM_DemoDivider_2
+[2018.03.05-22.27.13:505][  0]LogStaticMesh: Building static mesh SM_Sword...
+[2018.03.05-22.27.13:560][  0]LogStaticMesh: Built static mesh [0.06s] /Game/DynamicCombatSystem/Meshes/Items/SM_Sword.SM_Sword
+[2018.03.05-22.27.13:633][  0]LogTexture: Display: Building textures: T_Warspoils_axemace_AO (AutoDXT, 2048X2048)
+[2018.03.05-22.27.13:633][  0]LogStaticMesh: Building static mesh SM_HealthPotion...
+[2018.03.05-22.27.13:644][  0]LogStaticMesh: Built static mesh [0.04s] /Game/DynamicCombatSystem/Meshes/Items/SM_HealthPotion.SM_HealthPotion
+[2018.03.05-22.27.13:717][  0]LogStaticMesh: Building static mesh SM_SteelBreastplate...
+[2018.03.05-22.27.13:805][  0]LogStaticMesh: Built static mesh [0.14s] /Game/DynamicCombatSystem/Meshes/Items/SM_SteelBreastplate.SM_SteelBreastplate
+[2018.03.05-22.27.13:860][  0]LogStaticMesh: Building static mesh SM_SteelBoots...
+[2018.03.05-22.27.13:936][  0]LogStaticMesh: Built static mesh [0.10s] /Game/DynamicCombatSystem/Meshes/Items/SM_SteelBoots.SM_SteelBoots
+[2018.03.05-22.27.14:080][  0]LogTexture: Display: Building textures: T_damagetile01 (BC5, 512X512)
+[2018.03.05-22.27.14:080][  0]LogStaticMesh: Building static mesh SM_SteelGloves...
+[2018.03.05-22.27.14:302][  0]LogTexture: Display: Building textures: T_blend01_N (BC5, 512X512)
+[2018.03.05-22.27.14:303][  0]LogStaticMesh: Built static mesh [0.27s] /Game/DynamicCombatSystem/Meshes/Items/SM_SteelGloves.SM_SteelGloves
+[2018.03.05-22.27.14:427][  0]LogTexture: Display: Building textures: T_Sword_Normal (BC5, 1024X1024)
+[2018.03.05-22.27.14:427][  0]LogStaticMesh: Building static mesh SM_SteelHelmet...
+[2018.03.05-22.27.14:438][  0]LogStaticMesh: Built static mesh [0.04s] /Game/DynamicCombatSystem/Meshes/Items/SM_SteelHelmet.SM_SteelHelmet
+[2018.03.05-22.27.14:457][  0]LogStaticMesh: Building static mesh SM_SteelLeggings...
+[2018.03.05-22.27.14:523][  0]LogTexture: Display: Building textures: T_Sword_Metallic_AA (AutoDXT, 1024X1024)
+[2018.03.05-22.27.14:523][  0]LogStaticMesh: Built static mesh [0.08s] /Game/DynamicCombatSystem/Meshes/Items/SM_SteelLeggings.SM_SteelLeggings
+[2018.03.05-22.27.14:565][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_Idle.SS_Idle
+[2018.03.05-22.27.15:184][  0]LogTexture: Display: Building textures: T_Sword_Color (AutoDXT, 1024X1024)
+[2018.03.05-22.27.15:184][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_WalkR.UA_WalkR
+[2018.03.05-22.27.15:188][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_WalkL.UA_WalkL
+[2018.03.05-22.27.15:257][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_WalkF.UA_WalkF
+[2018.03.05-22.27.15:299][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_WalkBR.UA_WalkBR
+[2018.03.05-22.27.15:304][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_WalkBL.UA_WalkBL
+[2018.03.05-22.27.15:496][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_WalkB.UA_WalkB
+[2018.03.05-22.27.15:536][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_RunR.UA_RunR
+[2018.03.05-22.27.15:563][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_RunL.UA_RunL
+[2018.03.05-22.27.15:570][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_WalkRight.SS_WalkRight
+[2018.03.05-22.27.15:623][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_WalkLeft.SS_WalkLeft
+[2018.03.05-22.27.15:705][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_WalkForwardRight.SS_WalkForwardRight
+[2018.03.05-22.27.15:709][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_WalkForwardLeft.SS_WalkForwardLeft
+[2018.03.05-22.27.15:714][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_WalkForward.SS_WalkForward
+[2018.03.05-22.27.15:718][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_WalkBL.SS_WalkBL
+[2018.03.05-22.27.15:736][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_WalkBackRight.SS_WalkBackRight
+[2018.03.05-22.27.15:809][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_WalkB.SS_WalkB
+[2018.03.05-22.27.15:814][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_RunR.SS_RunR
+[2018.03.05-22.27.15:816][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_RunL.SS_RunL
+[2018.03.05-22.27.15:835][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_RunFR.SS_RunFR
+[2018.03.05-22.27.15:836][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_RunFL.SS_RunFL
+[2018.03.05-22.27.15:838][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_RunF.SS_RunF
+[2018.03.05-22.27.15:855][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_RunBR.SS_RunBR
+[2018.03.05-22.27.15:976][  0]LogTexture: Display: Building textures: T_breastplate_N (BC5, 1024X1024)
+[2018.03.05-22.27.15:976][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_RunBL.SS_RunBL
+[2018.03.05-22.27.15:992][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/SS_RunB.SS_RunB
+[2018.03.05-22.27.16:024][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Poses/S_StandRise.S_StandRise
+[2018.03.05-22.27.16:067][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Poses/S_StandLower.S_StandLower
+[2018.03.05-22.27.16:097][  0]LogTexture: Display: Building textures: T_breastplate_S (AutoDXT, 1024X1024)
+[2018.03.05-22.27.16:097][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Poses/SS_StandRise.SS_StandRise
+[2018.03.05-22.27.16:133][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Poses/SS_StandLower.SS_StandLower
+[2018.03.05-22.27.16:138][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/HeavyAttack_01.HeavyAttack_01
+[2018.03.05-22.27.16:150][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_UnsheathSword...
+[2018.03.05-22.27.16:179][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/ToggleWeapon/EquipSword.EquipSword
+[2018.03.05-22.27.16:215][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Reaction/BlockSword.BlockSword
+[2018.03.05-22.27.16:238][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Reaction/BlockShield.BlockShield
+[2018.03.05-22.27.16:290][  0]LogTexture: Display: Building textures: T_breastplate_AO (AutoDXT, 1024X1024)
+[2018.03.05-22.27.16:290][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_SwingLarge02...
+[2018.03.05-22.27.16:317][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_SwingLarge01...
+[2018.03.05-22.27.16:366][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/AirAttack.AirAttack
+[2018.03.05-22.27.16:373][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.03.05-22.27.16:508][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.03.05-22.27.16:641][  0]LogMaterial: Missing cached shader map for material M_PotionRope, compiling. 
+[2018.03.05-22.27.16:716][  0]LogMaterial: Missing cached shader map for material M_PotionHealth, compiling. 
+[2018.03.05-22.27.16:739][  0]LogMaterial: Missing cached shader map for material M_PotionCork, compiling. 
+[2018.03.05-22.27.16:766][  0]LogMaterial: Missing cached shader map for material M_PotionBottle, compiling. 
+[2018.03.05-22.27.21:096][  0]LogMaterial: Missing cached shader map for material M_Warspoils_Master, compiling. 
+[2018.03.05-22.27.21:163][  0]LogMaterial: Missing cached shader map for material M_Warspoils_Master, compiling. 
+[2018.03.05-22.27.21:257][  0]LogMaterial: Missing cached shader map for material M_Armor, compiling. 
+[2018.03.05-22.27.21:340][  0]LogMaterial: Missing cached shader map for material M_Sword, compiling. 
+[2018.03.05-22.27.21:874][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/ThrustAttack.ThrustAttack
+[2018.03.05-22.27.21:895][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Reaction/ImpactSword.ImpactSword
+[2018.03.05-22.27.21:909][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Reaction/StunFront.StunFront
+[2018.03.05-22.27.21:914][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/SpecialAttack_01.SpecialAttack_01
+[2018.03.05-22.27.21:927][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/ToggleWeapon/SheathSword.SheathSword
+[2018.03.05-22.27.21:934][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_Roll...
+[2018.03.05-22.27.21:985][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Roll/Roll.Roll
+[2018.03.05-22.27.22:029][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/ParryAttack.ParryAttack
+[2018.03.05-22.27.22:047][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/Attack_02.Attack_02
+[2018.03.05-22.27.22:059][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_SwingSmall02...
+[2018.03.05-22.27.22:088][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave WAV_SwingSmall01...
+[2018.03.05-22.27.22:137][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/Attack_01.Attack_01
+[2018.03.05-22.27.22:158][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/HeavyAttack_02.HeavyAttack_02
+[2018.03.05-22.27.22:441][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Attacks/ComboAttack_01.ComboAttack_01
+[2018.03.05-22.27.22:567][  0]LogStaticMesh: Building static mesh SM_URoom_Wall2...
+[2018.03.05-22.27.22:568][  0]LogStaticMesh: Built static mesh [0.02s] /Game/DemoRoom/Meshes/SM_URoom_Wall2.SM_URoom_Wall2
+[2018.03.05-22.27.22:595][  0]LogStaticMesh: Building static mesh SM_DemoRoomU_Hole...
+[2018.03.05-22.27.22:622][  0]LogStaticMesh: Built static mesh [0.03s] /Game/DemoRoom/Meshes/SM_DemoRoomU_Hole.SM_DemoRoomU_Hole
+[2018.03.05-22.27.22:686][  0]LogStaticMesh: Building static mesh SM_DemoRoomU2...
+[2018.03.05-22.27.22:701][  0]LogStaticMesh: Built static mesh [0.03s] /Game/DemoRoom/Meshes/SM_DemoRoomU2.SM_DemoRoomU2
+[2018.03.05-22.27.22:745][  0]LogStaticMesh: Building static mesh SM_DemoRoomTrimAdd...
+[2018.03.05-22.27.22:807][  0]LogStaticMesh: Built static mesh [0.09s] /Game/DemoRoom/Meshes/SM_DemoRoomTrimAdd.SM_DemoRoomTrimAdd
+[2018.03.05-22.27.22:849][  0]LogStaticMesh: Building static mesh SM_DemoRoomTrim2...
+[2018.03.05-22.27.22:954][  0]LogStaticMesh: Built static mesh [0.11s] /Game/DemoRoom/Meshes/SM_DemoRoomTrim2.SM_DemoRoomTrim2
+[2018.03.05-22.27.23:034][  0]LogStaticMesh: Building static mesh SM_DemoRoomLTrim...
+[2018.03.05-22.27.23:034][  0]LogStaticMesh: Built static mesh [0.01s] /Game/DemoRoom/Meshes/SM_DemoRoomLTrim.SM_DemoRoomLTrim
+[2018.03.05-22.27.23:074][  0]LogStaticMesh: Building static mesh SM_DemoRoomL...
+[2018.03.05-22.27.23:082][  0]LogStaticMesh: Built static mesh [0.01s] /Game/DemoRoom/Meshes/SM_DemoRoomL.SM_DemoRoomL
+[2018.03.05-22.27.23:176][  0]LogStaticMesh: Building static mesh SM_DemoRoomClamp2...
+[2018.03.05-22.27.23:237][  0]LogStaticMesh: Built static mesh [0.06s] /Game/DemoRoom/Meshes/SM_DemoRoomClamp2.SM_DemoRoomClamp2
+[2018.03.05-22.27.23:297][  0]LogMaterial: Missing cached shader map for material M_LightTube, compiling. 
+[2018.03.05-22.27.23:317][  0]LogStaticMesh: Building static mesh SM_DemoRoomClamp...
+[2018.03.05-22.27.23:380][  0]LogStaticMesh: Built static mesh [0.07s] /Game/DemoRoom/Meshes/SM_DemoRoomClamp.SM_DemoRoomClamp
+[2018.03.05-22.27.23:457][  0]LogStaticMesh: Building static mesh SM_DemoRoomBackWall2...
+[2018.03.05-22.27.23:458][  0]LogStaticMesh: Built static mesh [0.00s] /Game/DemoRoom/Meshes/SM_DemoRoomBackWall2.SM_DemoRoomBackWall2
+[2018.03.05-22.27.23:503][  0]LogStaticMesh: Building static mesh SM_DemoRoomBackWall...
+[2018.03.05-22.27.23:504][  0]LogStaticMesh: Built static mesh [0.04s] /Game/DemoRoom/Meshes/SM_DemoRoomBackWall.SM_DemoRoomBackWall
+[2018.03.05-22.27.23:540][  0]LogStaticMesh: Building static mesh SM_DemoDivider_1...
+[2018.03.05-22.27.23:561][  0]LogStaticMesh: Built static mesh [0.03s] /Game/DemoRoom/Meshes/SM_DemoDivider_1.SM_DemoDivider_1
+[2018.03.05-22.27.23:596][  0]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.03.05-22.27.23:660][  0]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.03.05-22.27.23:701][  0]LogMaterial: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2018.03.05-22.27.23:762][  0]LogMaterial: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2018.03.05-22.27.23:810][  0]LogMaterial: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2018.03.05-22.27.23:865][  0]LogMaterial: Missing cached shader map for material M_DemoRoomTiles, compiling. 
+[2018.03.05-22.27.23:995][  0]LogMaterial: Missing cached shader map for material DefaultTextMaterialTranslucentUnlit, compiling. 
+[2018.03.05-22.27.24:223][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_RunF.UA_RunF
+[2018.03.05-22.27.24:262][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_RunBR.UA_RunBR
+[2018.03.05-22.27.24:298][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_RunBL.UA_RunBL
+[2018.03.05-22.27.24:304][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_RunB.UA_RunB
+[2018.03.05-22.27.24:321][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DynamicCombatSystem/Animations/Locomotion/UA_Idle.UA_Idle
+[2018.03.05-22.27.24:367][  0]LogAIModule: Creating AISystem for world DemoLevel
+[2018.03.05-22.27.24:411][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.05-22.27.24:475][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.05-22.27.24:628][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 152.801ms to complete.
+[2018.03.05-22.27.24:628][  0]LogFileHelpers: Loading map 'DemoLevel' took 18.062
+[2018.03.05-22.27.24:692][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.05-22.27.24:916][  0]LogCollectionManager: Loaded 0 collections in 0.003013 seconds
+[2018.03.05-22.27.25:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/Collections/' took 0.01s
+[2018.03.05-22.27.25:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/Developers/anglm/Collections/' took 0.01s
+[2018.03.05-22.27.25:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/Collections/' took 0.01s
+[2018.03.05-22.27.25:035][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.05-22.27.25:049][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2386 classes and 500 folders.
+[2018.03.05-22.27.25:168][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.03.05-22.27.25:285][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.03.05-22.27.25:408][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.03.05-22.27.25:611][  0]LogSlate: Took 0.022235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.05-22.27.25:631][  0]LogSlate: Took 0.015356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.05-22.27.25:652][  0]LogSlate: Took 0.016798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.05-22.27.25:871][  0]LogRenderer: Reallocating scene render targets to support 1036x628 Format 10 NumSamples 1 (Frame:1).
+[2018.03.05-22.27.26:776][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.03.05-22.27.26:776][  0]LogLoad: (Engine Initialization) Total time: 112.45 seconds
+[2018.03.05-22.27.26:776][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.05-22.27.26:777][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.05-22.27.26:834][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.05-22.27.27:059][  0]LogSlate: Took 0.111184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.05-22.27.27:099][  1]LogAssetRegistry: Asset discovery search completed in 58.9768 seconds
+[2018.03.05-22.27.27:103][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.05-22.27.27:103][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2018.03.05-22.28.34:315][956]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-22.28.34:407][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-22.28.34:408][956]PIE: New page: PIE session: DemoLevel (Mar 6, 2018, 12:28:34 AM)
+[2018.03.05-22.28.34:408][956]LogPlayLevel: Creating play world package: /Game/DemoRoom/UEDPIE_0_DemoLevel
+[2018.03.05-22.28.34:414][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006843s)
+[2018.03.05-22.28.34:415][956]LogAIModule: Creating AISystem for world DemoLevel
+[2018.03.05-22.28.34:415][956]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.03.05-22.28.34:415][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DemoRoom/DemoLevel.DemoLevel to /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel (0.007805s)
+[2018.03.05-22.28.34:444][956]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.05-22.28.34:455][956]LogInit: FAudioDevice initialized.
+[2018.03.05-22.28.34:501][956]LogLoad: Game class is 'GameMode'
+[2018.03.05-22.28.34:508][956]LogWorld: Bringing World /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.03.05-23.28.34
+[2018.03.05-22.28.34:513][956]LogWorld: Bringing up level for play took: 0.010292
+[2018.03.05-22.28.34:554][956]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.03.05-22.28.34:554][956]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-22.28.34:554][956]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-22.28.34:554][956]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-22.28.34:560][956]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-22.28.34:560][956]PIE: Play in editor start time for /Game/DemoRoom/UEDPIE_0_DemoLevel -0.294
+[2018.03.05-22.52.02:015][718]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-22.52.02:026][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-22.52.02:026][718]PIE: New page: PIE session: DemoLevel (Mar 6, 2018, 12:52:02 AM)
+[2018.03.05-22.52.02:027][718]LogPlayLevel: Creating play world package: /Game/DemoRoom/UEDPIE_0_DemoLevel
+[2018.03.05-22.52.02:033][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006165s)
+[2018.03.05-22.52.02:034][718]LogAIModule: Creating AISystem for world DemoLevel
+[2018.03.05-22.52.02:034][718]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2018.03.05-22.52.02:034][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DemoRoom/DemoLevel.DemoLevel to /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel (0.007870s)
+[2018.03.05-22.52.02:059][718]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.05-22.52.02:069][718]LogInit: FAudioDevice initialized.
+[2018.03.05-22.52.02:105][718]LogLoad: Game class is 'GameMode'
+[2018.03.05-22.52.02:111][718]LogWorld: Bringing World /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.03.05-23.52.02
+[2018.03.05-22.52.02:115][718]LogWorld: Bringing up level for play took: 0.009626
+[2018.03.05-22.52.02:117][718]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-22.52.02:117][718]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-22.52.02:117][718]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-22.52.02:122][718]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-22.52.02:122][718]PIE: Play in editor start time for /Game/DemoRoom/UEDPIE_0_DemoLevel -0.733
+[2018.03.05-22.54.28:796][292]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-22.54.28:804][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-22.54.28:804][292]PIE: New page: PIE session: DemoLevel (Mar 6, 2018, 12:54:28 AM)
+[2018.03.05-22.54.28:804][292]LogPlayLevel: Creating play world package: /Game/DemoRoom/UEDPIE_0_DemoLevel
+[2018.03.05-22.54.28:810][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005487s)
+[2018.03.05-22.54.28:810][292]LogAIModule: Creating AISystem for world DemoLevel
+[2018.03.05-22.54.28:811][292]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.03.05-22.54.28:811][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DemoRoom/DemoLevel.DemoLevel to /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel (0.006580s)
+[2018.03.05-22.54.28:837][292]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.05-22.54.28:844][292]LogInit: FAudioDevice initialized.
+[2018.03.05-22.54.28:876][292]LogLoad: Game class is 'GameMode'
+[2018.03.05-22.54.28:882][292]LogWorld: Bringing World /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.03.05-23.54.28
+[2018.03.05-22.54.28:887][292]LogWorld: Bringing up level for play took: 0.009926
+[2018.03.05-22.54.28:887][292]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-22.54.28:888][292]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-22.54.28:888][292]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-22.54.28:893][292]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-22.54.28:893][292]PIE: Play in editor start time for /Game/DemoRoom/UEDPIE_0_DemoLevel 0.039
+[2018.03.05-22.54.40:812][711]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-22.54.40:820][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-22.54.40:820][711]PIE: New page: PIE session: DemoLevel (Mar 6, 2018, 12:54:40 AM)
+[2018.03.05-22.54.40:820][711]LogPlayLevel: Creating play world package: /Game/DemoRoom/UEDPIE_0_DemoLevel
+[2018.03.05-22.54.40:825][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005430s)
+[2018.03.05-22.54.40:826][711]LogAIModule: Creating AISystem for world DemoLevel
+[2018.03.05-22.54.40:826][711]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.03.05-22.54.40:826][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DemoRoom/DemoLevel.DemoLevel to /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel (0.006397s)
+[2018.03.05-22.54.40:850][711]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.05-22.54.40:858][711]LogInit: FAudioDevice initialized.
+[2018.03.05-22.54.40:886][711]LogLoad: Game class is 'GameMode'
+[2018.03.05-22.54.40:891][711]LogWorld: Bringing World /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.03.05-23.54.40
+[2018.03.05-22.54.40:896][711]LogWorld: Bringing up level for play took: 0.009057
+[2018.03.05-22.54.40:896][711]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-22.54.40:896][711]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-22.54.40:896][711]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-22.54.40:902][711]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-22.54.40:902][711]PIE: Play in editor start time for /Game/DemoRoom/UEDPIE_0_DemoLevel 0.047
+[2018.03.05-22.56.01:688][382]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.05-22.56.01:709][382]Cmd: MAP LOAD FILE="../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/DemoRoom/DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.05-22.56.01:709][382]LightingResults: New page: Lighting Build
+[2018.03.05-22.56.01:710][382]LoadErrors: New page: Loading map: DemoLevel.umap
+[2018.03.05-22.56.01:711][382]MapCheck: New page: Map Check
+[2018.03.05-22.56.01:711][382]LightingResults: New page: Lighting Build
+[2018.03.05-22.56.01:765][382]LogAIModule: Creating AISystem for world DemoLevel
+[2018.03.05-22.56.01:881][382]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.05-22.56.01:944][382]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.05-22.56.02:078][382]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 134.546ms to complete.
+[2018.03.05-22.56.02:079][382]LogFileHelpers: Loading map 'DemoLevel' took 0.372
+[2018.03.05-22.56.10:294][346]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-22.56.10:302][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-22.56.10:302][346]PIE: New page: PIE session: DemoLevel (Mar 6, 2018, 12:56:10 AM)
+[2018.03.05-22.56.10:302][346]LogPlayLevel: Creating play world package: /Game/DemoRoom/UEDPIE_0_DemoLevel
+[2018.03.05-22.56.10:308][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005503s)
+[2018.03.05-22.56.10:309][346]LogAIModule: Creating AISystem for world DemoLevel
+[2018.03.05-22.56.10:309][346]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2018.03.05-22.56.10:309][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DemoRoom/DemoLevel.DemoLevel to /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel (0.006560s)
+[2018.03.05-22.56.10:333][346]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.05-22.56.10:341][346]LogInit: FAudioDevice initialized.
+[2018.03.05-22.56.10:375][346]LogLoad: Game class is 'GameMode'
+[2018.03.05-22.56.10:388][346]LogWorld: Bringing World /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.03.05-23.56.10
+[2018.03.05-22.56.10:399][346]LogWorld: Bringing up level for play took: 0.023756
+[2018.03.05-22.56.10:400][346]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-22.56.10:400][346]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-22.56.10:400][346]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-22.56.10:410][346]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-22.56.10:410][346]PIE: Play in editor start time for /Game/DemoRoom/UEDPIE_0_DemoLevel -0.444
+[2018.03.05-23.11.32:200][853]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2018.03.05-23.11.32:923][853]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.05-23.11.33:097][853]LogSlate: Took 0.007144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.05-23.11.33:534][854]LogSlate: Took 0.004336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.05-23.12.38:717][831]LogRenderer: Reallocating scene render targets to support 1068x708 Format 10 NumSamples 1 (Frame:1).
+[2018.03.05-23.12.43:341][319]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.03.05-23.12.43:465][319]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.05-23.12.44:006][319]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2018.03.05-23.13.18:100][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.03.05-23.13.18:464][959]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.05-23.13.35:443][415]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.05-23.13.35:763][415]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.05-23.14.31:987][232]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.05-23.14.40:999][306]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/DemoRoom/DemoLevel' took 0.024
+[2018.03.05-23.14.41:002][306]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DynamicCombatSystem/Blueprints/Player/BP_CombatCharacter] ([1] browsable assets)...
+[2018.03.05-23.14.41:013][306]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DynamicCombatSystem/Blueprints/Player/BP_CombatCharacter.BP_CombatCharacter]
+[2018.03.05-23.14.41:013][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/DynamicCombatSystem/Blueprints/Player/BP_CombatCharacter]
+[2018.03.05-23.14.42:338][306]LogSavePackage: Save=1315.92ms
+[2018.03.05-23.14.42:338][306]LogSavePackage: Moving '../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/BP_CombatCharacter_Auto1B8A5DC9946D7DA6BB255EEBDFAE9F8F7.tmp' to '../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/Autosaves/Game/DynamicCombatSystem/Blueprints/Player/BP_CombatCharacter_Auto1.uasset'
+[2018.03.05-23.14.42:341][306]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/Autosaves/Game/DynamicCombatSystem/Blueprints/Player/BP_CombatCharacter_Auto1.uasset
+[2018.03.05-23.14.42:341][306]LogFileHelpers: Auto-saving content packages took 1.341
+[2018.03.05-23.24.17:489][113]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-23.24.17:508][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-23.24.17:508][113]PIE: New page: PIE session: DemoLevel (Mar 6, 2018, 1:24:17 AM)
+[2018.03.05-23.24.17:508][113]LogPlayLevel: Creating play world package: /Game/DemoRoom/UEDPIE_0_DemoLevel
+[2018.03.05-23.24.17:514][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006100s)
+[2018.03.05-23.24.17:515][113]LogAIModule: Creating AISystem for world DemoLevel
+[2018.03.05-23.24.17:516][113]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2018.03.05-23.24.17:516][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DemoRoom/DemoLevel.DemoLevel to /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel (0.007740s)
+[2018.03.05-23.24.17:549][113]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.05-23.24.17:558][113]LogInit: FAudioDevice initialized.
+[2018.03.05-23.24.17:591][113]LogLoad: Game class is 'GameMode'
+[2018.03.05-23.24.17:597][113]LogWorld: Bringing World /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.03.06-00.24.17
+[2018.03.05-23.24.17:609][113]LogWorld: Bringing up level for play took: 0.016610
+[2018.03.05-23.24.17:610][113]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-23.24.17:610][113]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-23.24.17:610][113]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-23.24.17:627][113]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-23.24.17:627][113]PIE: Play in editor start time for /Game/DemoRoom/UEDPIE_0_DemoLevel 0.773
+[2018.03.05-23.25.24:472][110]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/DemoRoom/DemoLevel' took 0.017
+[2018.03.05-23.25.24:474][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DynamicCombatSystem/Blueprints/Items/BP_BaseArmor] ([1] browsable assets)...
+[2018.03.05-23.25.24:474][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/DynamicCombatSystem/Blueprints/Items/BP_BaseArmor]
+[2018.03.05-23.25.24:529][110]LogSavePackage: Save=45.18ms
+[2018.03.05-23.25.24:529][110]LogSavePackage: Moving '../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/BP_BaseArmor_Auto2ADB6572A4A477CBA7DE788896232DD16.tmp' to '../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/Autosaves/Game/DynamicCombatSystem/Blueprints/Items/BP_BaseArmor_Auto2.uasset'
+[2018.03.05-23.25.24:531][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/Autosaves/Game/DynamicCombatSystem/Blueprints/Items/BP_BaseArmor_Auto2.uasset
+[2018.03.05-23.25.24:531][110]LogFileHelpers: Auto-saving content packages took 0.058
+[2018.03.05-23.37.11:813][471]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.05-23.37.11:826][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.05-23.37.11:826][471]PIE: New page: PIE session: DemoLevel (Mar 6, 2018, 1:37:11 AM)
+[2018.03.05-23.37.11:826][471]LogPlayLevel: Creating play world package: /Game/DemoRoom/UEDPIE_0_DemoLevel
+[2018.03.05-23.37.11:832][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005814s)
+[2018.03.05-23.37.11:833][471]LogAIModule: Creating AISystem for world DemoLevel
+[2018.03.05-23.37.11:833][471]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2018.03.05-23.37.11:833][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DemoRoom/DemoLevel.DemoLevel to /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel (0.007154s)
+[2018.03.05-23.37.11:868][471]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.05-23.37.11:876][471]LogInit: FAudioDevice initialized.
+[2018.03.05-23.37.11:909][471]LogLoad: Game class is 'GameMode'
+[2018.03.05-23.37.11:919][471]LogWorld: Bringing World /Game/DemoRoom/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2018.03.06-00.37.11
+[2018.03.05-23.37.11:932][471]LogWorld: Bringing up level for play took: 0.021155
+[2018.03.05-23.37.11:933][471]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-23.37.11:933][471]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.03.05-23.37.11:934][471]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-23.37.11:949][471]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.03.05-23.37.11:950][471]PIE: Play in editor start time for /Game/DemoRoom/UEDPIE_0_DemoLevel 1.095
+[2018.03.05-23.45.36:108][929]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/DemoRoom/DemoLevel' took 0.017
+[2018.03.05-23.45.36:111][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DynamicCombatSystem/Blueprints/Player/BP_CombatCharacter] ([1] browsable assets)...
+[2018.03.05-23.45.36:111][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/DynamicCombatSystem/Blueprints/Player/BP_CombatCharacter]
+[2018.03.05-23.45.37:344][929]LogSavePackage: Save=1215.17ms
+[2018.03.05-23.45.37:344][929]LogSavePackage: Moving '../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/BP_CombatCharacter_Auto3C554BE9E42EBBFC2AA95D7A76E34B2F5.tmp' to '../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/Autosaves/Game/DynamicCombatSystem/Blueprints/Player/BP_CombatCharacter_Auto3.uasset'
+[2018.03.05-23.45.37:347][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/Autosaves/Game/DynamicCombatSystem/Blueprints/Player/BP_CombatCharacter_Auto3.uasset
+[2018.03.05-23.45.37:348][929]LogFileHelpers: Auto-saving content packages took 1.238
+[2018.03.05-23.54.07:038][935]Cmd: QUIT_EDITOR
+[2018.03.05-23.54.07:243][935]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.05-23.54.07:280][935]LogExit: Preparing to exit.
+[2018.03.05-23.54.07:666][935]LogDirectoryWatcher: A directory notification for 'C:/Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/' was aborted.
+[2018.03.05-23.54.07:857][935]LogExit: Editor shut down
+[2018.03.05-23.54.07:885][935]LogExit: Transaction tracking system shut down
+[2018.03.05-23.54.08:083][935]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.05-23.54.08:083][935]LogDirectoryWatcher: A directory notification for '../../../../../../Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/' was aborted.
+[2018.03.05-23.54.08:083][935]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.05-23.54.08:083][935]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.05-23.54.08:083][935]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.05-23.54.08:284][935]LogExit: Object subsystem successfully closed.
+[2018.03.05-23.54.08:304][935]LogD3D11RHI: Shutdown
+[2018.03.05-23.54.08:304][935]LogD3D11RHI: CleanupD3DDevice
+[2018.03.05-23.54.08:680][935]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.05-23.54.08:699][935]LogModuleManager: Shutting down and abandoning module AnimationEditor (544)
+[2018.03.05-23.54.08:699][935]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (542)
+[2018.03.05-23.54.08:699][935]LogModuleManager: Shutting down and abandoning module SkeletonEditor (540)
+[2018.03.05-23.54.08:699][935]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (538)
+[2018.03.05-23.54.08:699][935]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2018.03.05-23.54.08:699][935]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2018.03.05-23.54.08:699][935]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2018.03.05-23.54.08:699][935]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.03.05-23.54.08:699][935]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.03.05-23.54.08:699][935]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.03.05-23.54.08:699][935]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.03.05-23.54.08:704][935]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.03.05-23.54.08:705][935]LogDirectoryWatcher: A directory notification for 'C:/Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/Collections/' was aborted.
+[2018.03.05-23.54.08:705][935]LogDirectoryWatcher: A directory notification for 'C:/Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Content/Developers/anglm/Collections/' was aborted.
+[2018.03.05-23.54.08:705][935]LogDirectoryWatcher: A directory notification for 'C:/Users/anglm/Documents/Unreal Projects/DynamicCombatSystem/Saved/Collections/' was aborted.
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.03.05-23.54.08:705][935]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.03.05-23.54.08:706][935]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.03.05-23.54.09:347][935]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.03.05-23.54.09:347][935]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.03.05-23.54.09:347][935]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.03.05-23.54.09:347][935]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.03.05-23.54.09:348][935]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.03.05-23.54.09:349][935]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.03.05-23.54.09:350][935]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.03.05-23.54.09:350][935]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.03.05-23.54.09:350][935]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.03.05-23.54.09:350][935]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.03.05-23.54.09:350][935]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.03.05-23.54.09:351][935]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.03.05-23.54.09:351][935]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.03.05-23.54.09:415][935]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.03.05-23.54.09:415][935]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.03.05-23.54.09:415][935]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.03.05-23.54.09:415][935]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.03.05-23.54.09:415][935]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.03.05-23.54.09:415][935]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.03.05-23.54.09:416][935]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.03.05-23.54.09:416][935]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.03.05-23.54.09:416][935]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.03.05-23.54.09:416][935]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.03.05-23.54.09:428][935]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.03.05-23.54.09:451][935]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.03.05-23.54.09:451][935]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.03.05-23.54.09:451][935]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.03.05-23.54.09:451][935]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.03.05-23.54.09:451][935]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.03.05-23.54.09:451][935]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.03.05-23.54.09:452][935]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.03.05-23.54.09:453][935]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.03.05-23.54.09:453][935]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.03.05-23.54.09:453][935]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.03.05-23.54.09:453][935]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.03.05-23.54.09:453][935]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.03.05-23.54.09:453][935]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.03.05-23.54.09:453][935]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.03.05-23.54.09:455][935]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.03.05-23.54.09:455][935]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.03.05-23.54.09:455][935]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.03.05-23.54.09:456][935]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.03.05-23.54.09:456][935]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.03.05-23.54.09:456][935]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.03.05-23.54.09:456][935]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.03.05-23.54.09:456][935]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.03.05-23.54.09:456][935]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.03.05-23.54.09:456][935]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.03.05-23.54.09:456][935]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.03.05-23.54.09:557][935]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.03.05-23.54.09:658][935]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.03.05-23.54.09:658][935]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.03.05-23.54.09:658][935]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.03.05-23.54.09:658][935]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.03.05-23.54.09:658][935]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.03.05-23.54.09:658][935]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.03.05-23.54.09:659][935]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.03.05-23.54.09:659][935]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.03.05-23.54.09:659][935]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.03.05-23.54.09:660][935]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.03.05-23.54.09:662][935]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.03.05-23.54.09:665][935]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.03.05-23.54.09:671][935]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.03.05-23.54.09:703][935]LogDerivedDataCache: Shutdown
+[2018.03.05-23.54.09:703][935]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.03.05-23.54.09:703][935]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.03.05-23.54.09:703][935]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.03.05-23.54.09:704][935]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.05-23.54.09:705][935]LogOnline: Display: Unloading online subsystem: NULL
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.05-23.54.09:705][935]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.05-23.54.09:705][935]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.05-23.54.09:705][935]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FFFBA19-443A-956E-D7BE-99BC2B673A1A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=be8cc18947ac7089c07ba8b9d3cd88cb%7Cae94a38945f840859e787818e638123f%7C688fbf49-8f80-4f4f-b644-c22469ca67ac&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.05-23.54.09:730][935]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.05-23.54.09:734][935]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.05-23.54.09:734][935]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.05-23.54.09:734][935]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.05-23.54.09:735][935]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.05-23.54.09:735][935]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.05-23.54.09:735][935]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.05-23.54.09:735][935]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.05-23.54.09:740][935]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.05-23.54.09:746][935]LogExit: Exiting.
+[2018.03.05-23.54.09:771][935]Log file closed, 03/06/18 00:54:09
